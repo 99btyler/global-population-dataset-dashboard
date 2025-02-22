@@ -1,0 +1,17 @@
+Population
+-
+Country string
+"Average Decade Change" int
+"Average Decade Change (%)" int
+"1970 Population" int
+"1980 Population" int
+"1990 Population" int
+"2000 Population" int
+"2010 Population" int
+"2020 Population" int
+"Net Change" int
+"2020 Global Rank" int
+"2020 Global Percent" float
+"2020 Median Age" object
+"2020 Birth Rate" object
+"2020 Migrants" object
