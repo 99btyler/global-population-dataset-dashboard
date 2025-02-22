@@ -12,4 +12,4 @@ Just to get us started, here are some basic things we decided to answer:
 * What are the fastest growing countries?
 ### Project Structure
 #### Data Cleaning
-* [data-cleaning.ipynb](src/data-cleaning.ipynb) creates a single dataset from [the two .csv files](src/data/unclean-data)
+* [data-cleaning.ipynb](src/data-cleaning.ipynb) creates [a single dataset](src/data/data.csv) from [the two .csv files](src/data/unclean-data)
